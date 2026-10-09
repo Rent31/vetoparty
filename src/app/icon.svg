@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" shape-rendering="crispEdges">
+  <rect width="64" height="64" fill="#12100e"/>
+
+  <!-- cornice -->
+  <rect x="8" y="12" width="48" height="5" fill="#c9a24a"/>
+  <rect x="10" y="17" width="44" height="2" fill="#6b5f4d"/>
+
+  <!-- upper arcade -->
+  <rect x="10" y="19" width="44" height="12" fill="#ece5d5"/>
+  <rect x="14" y="22" width="5" height="9" fill="#12100e"/>
+  <rect x="23" y="22" width="5" height="9" fill="#12100e"/>
+  <rect x="32" y="22" width="5" height="9" fill="#12100e"/>
+  <rect x="41" y="22" width="5" height="9" fill="#12100e"/>
+
+  <!-- mid band -->
+  <rect x="10" y="31" width="44" height="2" fill="#6b5f4d"/>
+
+  <!-- lower arcade -->
+  <rect x="10" y="33" width="44" height="13" fill="#ece5d5"/>
+  <rect x="14" y="36" width="5" height="10" fill="#12100e"/>
+  <rect x="23" y="36" width="5" height="10" fill="#12100e"/>
+  <rect x="32" y="36" width="5" height="10" fill="#12100e"/>
+  <rect x="41" y="36" width="5" height="10" fill="#12100e"/>
+
+  <!-- ruined right edge -->
+  <rect x="46" y="19" width="8" height="6" fill="#12100e"/>
+  <rect x="50" y="25" width="4" height="4" fill="#12100e"/>
+
+  <!-- ground + veto bar -->
+  <rect x="6" y="46" width="52" height="3" fill="#6b5f4d"/>
+  <rect x="6" y="51" width="52" height="5" fill="#d0563f"/>
+</svg>
